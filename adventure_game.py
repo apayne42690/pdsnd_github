@@ -106,7 +106,7 @@ def winning():
         "back to town and become the town Hero. WIN!!")
     play_again()
 
-
+#counts the number of mistakes a user makes when entering input. More than 3 and game over!
 def mistake_counter():
     global mistakes
     mistakes += 1
