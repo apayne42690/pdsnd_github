@@ -13,5 +13,5 @@ An adventure game to have fun with
 adventure_game.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/udacity/pdsnd_github
 
