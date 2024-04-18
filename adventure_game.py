@@ -1,3 +1,7 @@
+# This is a python project created for Udacity. 
+# Please enjoy the game but do not goof around.
+# OK?
+
 import time
 import random
 
