@@ -93,7 +93,8 @@ def cross_game_over():
         "feet give way and you plummet. GAME OVER!")
     play_again()
 
-
+#In the rare case that you picked the right choice this is the
+#function that will trigger!
 def winning():
     print_slow(
         "You accept the dragons offer and he then scoops your up "
@@ -106,7 +107,8 @@ def winning():
         "back to town and become the town Hero. WIN!!")
     play_again()
 
-#counts the number of mistakes a user makes when entering input. More than 3 and game over!
+#counts the number of mistakes a user makes when entering input.
+#More than 3 and game over!
 def mistake_counter():
     global mistakes
     mistakes += 1
